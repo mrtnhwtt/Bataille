@@ -7,9 +7,6 @@ command line bataille card game
 	**1.2 Used technologies**<br>
 		Written in Java.<br><br>
 **2. Installation**<br><br>
-	**2.1 Prerequisite**<br>
-		- Any java IDE<br><br>
-	**2.2 Installation**<br>
-		The project can be cloned or downloaded from this github page.<br><br>
+	The project can be cloned or downloaded from this github page.<br><br>
 **3. Launch**<br><br>
-	  Run the project in your java IDE.
+	  open the project directory in your terminal and run the following command ```java -jar bataille.jar```
